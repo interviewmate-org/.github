@@ -1,36 +1,43 @@
-# Hi there 👋
+# 🚀 InterviewMate Engineering Ecosystem
 
-Welcome to the **InterviewMate Engineering Ecosystem** 
+Welcome to the **InterviewMate Engineering Ecosystem** — an AI-powered platform focused on intelligent interview preparation, career intelligence, and scalable distributed engineering systems.
 
-InterviewMate is an AI-powered interview preparation and career intelligence platform being developed using scalable distributed systems, AI/ML pipelines, and modern engineering workflows.
-
-Our ecosystem focuses on building intelligent solutions for:
-
-* AI-driven interview simulation
-* Technical and aptitude practice systems
-* Resume analysis and evaluation
-* Career graph intelligence
-* Distributed microservice infrastructure
-* Engineering workflow automation
+InterviewMate is being developed using modern cloud-native architecture, AI/ML pipelines, event-driven systems, and collaborative engineering workflows to build next-generation career preparation solutions.
 
 ---
 
-##  Engineering Architecture
+# 🌍 Our Vision
 
-The platform follows a modern engineering model based on:
+InterviewMate aims to redefine interview preparation through intelligent systems that combine AI-driven evaluation, behavioral analysis, and scalable engineering infrastructure.
+
+We are building solutions focused on:
+
+* 🤖 AI-powered interview simulation
+* 📄 Resume analysis & evaluation
+* 🧠 Technical & aptitude practice systems
+* 📊 Career graph intelligence
+* ⚡ Distributed microservice infrastructure
+* 🔄 Engineering workflow automation
+
+---
+
+# 🏗️ Engineering Architecture
+
+The platform follows a modern scalable engineering model built around:
 
 * Microservices Architecture
 * Event-Driven Systems
 * AI/ML Integration
+* Distributed Infrastructure
 * CI/CD Driven Development
 * Team-Based Repository Ownership
 * Structured Engineering Governance
 
 ---
 
-##  Core Technology Stack
+# ⚙️ Core Technology Stack
 
-### Backend & Infrastructure
+## Backend & Infrastructure
 
 * Java
 * Spring Boot
@@ -41,44 +48,116 @@ The platform follows a modern engineering model based on:
 * PostgreSQL
 * Docker
 
-### Frontend
+## Frontend Engineering
 
 * React
 * Vite
 * JavaScript
 
-### AI / ML
+## AI / ML Systems
 
 * Python
 * FastAPI
 * NLP Pipelines
 * AI Evaluation Engines
+* LLM Integration
 
 ---
 
-##  Contribution Guidelines
+# 👨‍💻 Core Engineering Team
 
-The InterviewMate ecosystem follows a structured engineering workflow.
+<table>
+<tr>
 
-### Standard Development Flow
+<td align="center">
+<a href="https://github.com/BOBSRIJAN">
+<img src="https://github.com/BOBSRIJAN.png" width="120px;" alt="Srijan Ray"/>
+<br />
+<sub><b>Srijan Ray</b></sub>
+</a>
+<br />
+<sub>Technical Lead – AI & Frontend Systems</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/MrPal28">
+<img src="https://github.com/MrPal28.png" width="120px;" alt="Arindam Pal"/>
+<br />
+<sub><b>Arindam Pal</b></sub>
+</a>
+<br />
+<sub>Backend & Devops</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/USERNAME">
+<img src="https://github.com/USERNAME.png" width="120px;" alt="Aritra Naskar"/>
+<br />
+<sub><b>Aritra Naskar</b></sub>
+</a>
+<br />
+<sub>Frontend Engineer</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/USERNAME">
+<img src="https://github.com/USERNAME.png" width="120px;" alt="Arinjoy Roy Choudhury"/>
+<br />
+<sub><b>Arinjoy Roy Choudhury</b></sub>
+</a>
+<br />
+<sub>Platform & DevOps Engineer</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/USERNAME">
+<img src="https://github.com/USERNAME.png" width="120px;" alt="Aritri Saha"/>
+<br />
+<sub><b>Aritri Saha</b></sub>
+</a>
+<br />
+<sub>UI/UX & Product Design</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/USERNAME">
+<img src="https://github.com/USERNAME.png" width="120px;" alt="Aritrika Saha"/>
+<br />
+<sub><b>Aritrika Saha</b></sub>
+</a>
+<br />
+<sub>Research & Documentation</sub>
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🔄 Contribution Workflow
+
+The InterviewMate ecosystem follows a structured engineering workflow designed for scalable collaboration and maintainability.
+
+## Standard Development Lifecycle
 
 ```text
-feature/* → Pull Request → Review → Testing → Merge
+feature/* → Pull Request → Code Review → Testing → Merge
 ```
 
-### Engineering Standards
+## Engineering Standards
 
 * Pull Requests are mandatory
-* Direct pushes to protected branches are restricted
-* Every feature should be tracked through Issues
+* Protected branches restrict direct pushes
+* Every feature must be tracked through Issues
 * Tasks are managed through the Engineering Execution Board
 * Repository governance follows centralized operational workflows
+* Documentation-driven engineering is encouraged across all repositories
 
 ---
 
-##  Engineering Workflow Platforms
+# 🛠️ Engineering Workflow Platforms
 
-### Governance & Repository Operations
+## Governance & Repository Operations
 
 Managed through:
 
@@ -91,11 +170,12 @@ Handles:
 * Repository requests
 * Infrastructure requests
 * Access management
-* Engineering governance workflows
+* Governance workflows
+* Operational coordination
 
 ---
 
-### Engineering Execution
+## Engineering Execution
 
 Managed through the organization execution board.
 
@@ -109,53 +189,66 @@ Tracks:
 
 ---
 
-##  Repository Ecosystem
+# 📦 Repository Ecosystem
 
 Examples of repositories inside the organization:
 
 | Repository                          | Purpose                        |
 | ----------------------------------- | ------------------------------ |
-| interviewmate-auth-service          | Authentication & authorization |
-| interviewmate-user-service          | User management                |
-| interviewmate-api-gateway           | API routing                    |
-| interviewmate-config-server         | Centralized configuration      |
-| interviewmate-eureka-server         | Service discovery              |
-| interviewmate-engineering-execution | Sprint & task workflows        |
+| interviewmate-auth-service          | Authentication & Authorization |
+| interviewmate-user-service          | User Management                |
+| interviewmate-api-gateway           | API Gateway & Routing          |
+| interviewmate-config-server         | Centralized Configuration      |
+| interviewmate-eureka-server         | Service Discovery              |
+| interviewmate-ai-engine             | AI Evaluation & Analysis       |
+| interviewmate-practice-service      | Practice & Assessment Engine   |
+| interviewmate-engineering-execution | Sprint & Workflow Management   |
 
 ---
 
-##  Engineering Principles
+# 📈 Engineering Principles
 
-We emphasize:
+We strongly emphasize:
 
 * Scalable architecture
 * Clean engineering practices
-* Documentation-driven workflows
+* Documentation-first workflows
 * Operational discipline
 * Team collaboration
 * Structured repository governance
-* Startup-style engineering execution
+* Cloud-native engineering
+* Startup-style execution culture
 
 ---
 
-##  Long-Term Vision
+# 🚀 Long-Term Vision
 
 InterviewMate aims to evolve into a robust AI-driven engineering ecosystem focused on:
 
 * Intelligent interview systems
 * Distributed microservice platforms
 * AI-powered evaluation engines
+* Real-time analytics pipelines
+* Behavioral intelligence systems
 * Modern engineering operations
 * Scalable cloud-native infrastructure
 
 ---
 
-##  Fun Fact
+# ☕ Fun Fact
 
-A large portion of the architecture discussions usually happen over tea, debugging sessions, and diagrams that start simple and somehow become distributed systems.
+Most architecture discussions usually begin with a simple idea, continue over tea and debugging sessions, and eventually evolve into distributed systems diagrams.
 
 ---
 
-##  Maintainers
+# 🤝 Contribution
 
-* Ops Team
+We welcome engineering collaboration, architectural discussions, and ecosystem contributions aligned with the platform vision.
+
+Please follow repository contribution standards and organizational workflows before submitting pull requests.
+
+---
+
+# 📌 Maintained By
+
+InterviewMate Engineering Team
