@@ -90,43 +90,52 @@ The platform follows a modern scalable engineering model built around:
 </td>
 
 <td align="center">
-<a href="https://github.com/USERNAME">
-<img src="https://github.com/USERNAME.png" width="120px;" alt="Aritra Naskar"/>
+<a href="https://github.com/ItsABasak24">
+<img src="https://github.com/ItsABasak24.png" width="120px;" alt="Arnab Basak"/>
 <br />
-<sub><b>Aritra Naskar</b></sub>
+<sub><b>Arnab Basak</b></sub>
 </a>
 <br />
-<sub>Frontend Engineer</sub>
+<sub>MLOps & DevOps Engineer</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/USERNAME">
-<img src="https://github.com/USERNAME.png" width="120px;" alt="Arinjoy Roy Choudhury"/>
+<a href="https://github.com/soumyadip-adak99">
+<img src="https://github.com/soumyadip-adak99.png" width="120px;" alt="Soumyadip Adak"/>
 <br />
-<sub><b>Arinjoy Roy Choudhury</b></sub>
+<sub><b>Soumyadip Adak</b></sub>
 </a>
 <br />
-<sub>Platform & DevOps Engineer</sub>
+<sub>Associate Full Stack Developer</sub>
 </td>
 
 <td align="center">
-<a href="https://github.com/USERNAME">
-<img src="https://github.com/USERNAME.png" width="120px;" alt="Aritri Saha"/>
+<a href="https://github.com/swatishaw1">
+<img src="https://github.com/swatishaw1.png" width="120px;" alt="Swati Shaw"/>
+<br />
+<sub><b>Swati Shaw</b></sub>
+</a>
+<br />
+<sub>Associate Full Stack Developer</sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/7aritri">
+<img src="https://github.com/7aritri.png" width="120px;" alt="Aritri Saha"/>
 <br />
 <sub><b>Aritri Saha</b></sub>
 </a>
 <br />
-<sub>UI/UX & Product Design</sub>
+<sub>Associate AI Engineer</sub>
 </td>
-
 <td align="center">
-<a href="https://github.com/USERNAME">
-<img src="https://github.com/USERNAME.png" width="120px;" alt="Aritrika Saha"/>
+<a href="https://github.com/AtanuGayen">
+<img src="https://github.com/AtanuGayen.png" width="120px;" alt="Atanu Gayen"/>
 <br />
-<sub><b>Aritrika Saha</b></sub>
+<sub><b>Atanu Gayen</b></sub>
 </a>
 <br />
-<sub>Research & Documentation</sub>
+<sub>Associate AI Engineer</sub>
 </td>
 
 </tr>
